@@ -59,7 +59,7 @@ Here is a summary of notable features regarding the exchanges that support KDA, 
 - Official KDA exchange
 - Accessible globally
 - KYC not required
-- As of August 6th 2021, deposit of KDA in all 20 chains (chain 0 to chain 19) is now supported.
+- As of May 30th 2023, users can only deposit KDA on [chain 1](https://www.kucoin.com/support/900007078083).
 - When withdrawing KDA, Kucoin will transfer your KDA to your Chain 1 address.
 - Withdrawal Fee: 1 KDA
 
